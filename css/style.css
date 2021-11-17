@@ -214,6 +214,9 @@ body {
   align-items: center;
   color: cornsilk;
 }
+.features__img {
+  height: 37px;
+}
 .features__name {
   font-size: 20px;
   line-height: 24px;
