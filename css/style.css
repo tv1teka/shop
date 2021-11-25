@@ -140,8 +140,6 @@ body {
   display: flex;
   flex-direction: row;
 }
-.menu__item {
-}
 ul > .menu__item:after {
   padding: 5px;
   color: black;
